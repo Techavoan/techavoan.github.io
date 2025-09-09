@@ -1,7 +1,5 @@
 # Data Scientist
 
-![IMG_0180](https://github.com/user-attachments/assets/f6e03ad7-bc17-4287-b1b1-e8ff1d4eceb1)
-
 **Programming Languages**: Python, R, SAS, and SQL
 
 **Data Visualization Tools**: Tableau, and Power BI
