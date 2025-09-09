@@ -13,3 +13,5 @@
 ## Work Experience
 
 Data Visualization and Analyst Intern - California Consortium for Public Health Informatics and Technology (CCPHIT) Program (Oct 2024 - 2025)
+
+Instructional Student Assistant - Lindgren Math Center (Sept 2023 - May 2025)
