@@ -1,6 +1,7 @@
 # Data Scientist
 
 **Programming Languages**: Python, R, SAS, and SQL
+
 **Data Visualization Tools**: Tableau, and Power BI
 
 ## Education
